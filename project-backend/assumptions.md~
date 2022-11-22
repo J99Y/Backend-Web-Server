@@ -1,0 +1,10 @@
+
+Assuption: 
+- Password have maximum 200 character
+- Assume input authUserId is not always Valid
+- Assume the function is not always written correctly
+- Assume input channelId is not always Valid
+- Assume not all individual return values are returned as single values rather than being stored in an object
+- Assume not all groups store their data in a field called data which is located in dataStore.js
+- Assume channelId and AuthUserIds are all integers
+- Assume password and username will always be a string
